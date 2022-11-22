@@ -18,10 +18,13 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Kenneth Ramirez Castro</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Overachieving computer science student with a strong belief in self-motivated learning. 
+              Adept at quickly learning and applying new skills. Strong teamwork and training skills. 
+              Fluent in Spanish and English. Proficient with Python, robotics, Front-End Web Development, 
+              Microsoft Office, and photography. Seeking CS careers in Frontend Web and Software Development, 
+              and Robotics.
             </div>
           </div>
         </div>
